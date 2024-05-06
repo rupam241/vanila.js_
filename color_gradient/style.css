@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    background-image:liner-gradient(to right top ,#051937,#004d7a,#008793,#00bf72,#a8eb12);
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    color: #882b2b;
+    cursor: pointer;
+}
+
+#myButton1 {
+    background-color: #080809;
+}
+
+#myButton2 {
+    background-color: #008793;
+}
+
+.copyCode {
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(92, 145, 229), rgb(152, 63, 198));
+    color: #fff;
+    border-radius: 5px;
+}
